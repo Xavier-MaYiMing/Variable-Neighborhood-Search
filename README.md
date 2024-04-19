@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![VNS for TSP](/Users/xavier/Desktop/Xavier Ma/个人算法主页/VNS/VNS for TSP.png)
+![](https://github.com/Xavier-MaYiMing/Variable-Neighborhood-Search/blob/main/VNS%20for%20TSP.png)
 
 
 
